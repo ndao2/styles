@@ -1,9 +1,10 @@
 /* Styles */
 
-body {
-	background-color: white;
+body {font-weight: 4em;
+	background-color:lavenderblush;
 	color: black;
 	font-family: sans-serif;
+
 }
 
 article {
@@ -11,21 +12,43 @@ article {
 	margin-left: auto;
 	margin-right: auto;
 	padding-top: 2em;
-	padding-bottom: 4em;
+	padding-bottom: 2em;
 }
-
-h1 {
-	font-size: 3em;
+h1  {background-size: 2em;
+	color: green;
+	font-size:5em;
 	line-height: 1;
-}
+	border-spacing: 5px;
+	padding: 15px;
 
-h2 {
-	font-weight: normal;
+}
+h2  { text-indent: 1.5em;
+	color: green;
+	font-weight:3em: normal;
 	text-transform: uppercase;
 	letter-spacing: -0.025em;
+	border-spacing: 5px;
+
+}
+h3  {font-size: 2em;
+	text-indent: 2em;
+	color: green;
+	border-spacing: 5px;
+
+	
+}
+h4  { font-size: 2em;
+	text-indent: 2em;
+	color: green;
+	border-spacing: 5px;
 }
 
-p {
-	margin: 0 0 1em 0;
+p   { font-weight: 1.5em;
+	margin: 0 0 2em 0;
 	font-family: serif;
+	text-indent:2em;
+	font-size: 1.025em;
+
+
+
 }
